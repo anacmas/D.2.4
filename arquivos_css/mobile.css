@@ -108,4 +108,23 @@
         font-size: 0.9em;
         padding-left: 0;
     }
+
+    .fundo-icone-redes {
+        margin: 0 15px;
+    }
+
+    .email-footer {
+        font-size: 1.2em;
+        margin: 8% 0;
+    }
+
+    .lista-botoes-footer{
+        width: 100vw;
+        padding: 0;
+        font-size: 0.9em;
+    }
+
+    .copyright {
+        font-size: 0.7em;
+    }
 }
