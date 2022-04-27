@@ -23,14 +23,14 @@
 }
 
 .traco-verde {
-    background-color: #c983b4;
+    background-color: var(--rosa-principal);
     width: 8%;
     height: 4px;
     border-radius: 3px;
 }
 
 .traco-verde-pequeno {
-    background-color: #c983b4;
+    background-color: var(--rosa-principal);
     width: 2%;
     height: 4px;
     border-radius: 3px;
@@ -38,7 +38,7 @@
 }
 
 .traco-verde-minusculo {
-    background-color: #c983b4;
+    background-color: var(--rosa-principal);
     width: 1%;
     height: 4px;
     border-radius: 3px;

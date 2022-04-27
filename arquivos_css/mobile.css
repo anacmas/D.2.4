@@ -13,9 +13,10 @@
     }
 
     .texto-principal {
-        font-size: 15px;
+        font-size: 0.9rem;
         margin-bottom: 4%;
     }
+
 
     button {
         width: 50%;
@@ -29,5 +30,36 @@
         border-width: 4px;
     }
 
-    
+    h4 {
+        font-size: 1.5em;
+        margin-bottom: 1%;
+    }
+
+    .texto-porque {
+        font-size: 0.9rem;
+    }
+
+    h5 {
+        margin-top: 5%;
+        font-size: 0.9rem;
+    }
+
+    .porcentagem-escrita {
+        margin: 0 0 1% 0;
+        font-size: 0.9rem;
+    }
+
+    .parte-retangular {
+        height: 14px;
+        width: 3px;
+        border-style: solid;
+        border-width: 2px;
+    }
+
+    .altura-porcentagens-mobile {
+        height: 10px;
+    }
+
+
+
 }
