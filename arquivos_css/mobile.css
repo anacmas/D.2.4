@@ -60,6 +60,52 @@
         height: 10px;
     }
 
+    .graphic-web, .ui-front {
+        display: flex;
+        flex-direction: column;
+    }
 
+    .conteudo-terceira-area {
+        width: 90%;
+    }
 
+    .imagem-titulo-projetos {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    h6 {
+        margin: 0 0 0 4%;
+        font-size: 1.2em;
+    }
+
+    .imagens-projetos {
+        margin: 0;
+        width: 3em;
+        height: 3em;
+    }
+
+    .icones-projetos {
+        width: 1.8em;
+        height: 1.8em;
+    }
+
+    .textos-projetos {
+        font-size: 0.9em;
+    }
+
+    .contatos-titulo {
+        margin-top: 4%;
+    }
+
+    .fundo-verde-contato {
+        margin: 8% 0;
+        padding: 2% 5%;
+    }
+
+    .lista-contatos {
+        font-size: 0.9em;
+        padding-left: 0;
+    }
 }
