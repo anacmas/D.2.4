@@ -1,0 +1,33 @@
+@media (max-width: 720px) {
+    .primeira-area-ola, .segunda-area-pq, .quarta-area-contatos {
+        width: 85%;
+    }
+
+    .ola {
+        margin-bottom: 0;
+        font-size: 1.2em;
+    }
+
+    .subtitulo-desenvolvedora {
+        margin: 0;
+    }
+
+    .texto-principal {
+        font-size: 15px;
+        margin-bottom: 4%;
+    }
+
+    button {
+        width: 50%;
+        box-shadow: 2px 2px 5px #9b9b9b;
+        font-size: 0.8em;
+    }
+
+    .foto {
+        width: 50%;
+        margin-top: 10%;
+        border-width: 4px;
+    }
+
+    
+}

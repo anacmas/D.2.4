@@ -1,0 +1,103 @@
+h4 {
+    font-size: 2rem;
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+    color: var(--azul-escuro);
+}
+
+.contatos-titulo {
+    color: #FFFFFF;
+}
+
+.texto-porque {
+    font-family: var(--fonte-principal);
+    color: var(--cinza-medio);
+    line-height: 23px;
+    font-weight: 500;
+}
+
+h5 {
+    font-family: var(--fonte-principal);
+    font-size: 1.2rem;
+    color: var(--cinza);
+    margin-bottom: 0;
+}
+
+.porcentagem-escrita {
+    font-family: var(--fonte-principal);
+    font-size: 100%;
+    color: var(--cinza-medio);
+    font-weight: 600;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container-traco-80, .container-traco-75, .container-traco-90, .container-traco-65 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.parte-verde-80 {
+    background-color: var(--rosa-principal);
+    height: 11px;
+    width: 85%;
+    border-radius: 5px 0 0 5px;
+}
+
+.parte-cinza-80 {
+    background-color: var(--cinza-porcentagens);
+    height: 11px;
+    width: 15%;
+    border-radius: 0 5px 5px 0;
+}
+
+.parte-retangular {
+    height: 17px;
+    width: 4px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: var(--rosa-principal);
+}
+
+.parte-verde-75 {
+    background-color: var(--rosa-principal);
+    height: 11px;
+    width: 75%;
+    border-radius: 5px 0 0 5px;
+}
+
+.parte-cinza-75 {
+    background-color: var(--cinza-porcentagens);
+    height: 11px;
+    width: 25%;
+    border-radius: 0 5px 5px 0;
+}
+
+.parte-verde-90 {
+    background-color: var(--rosa-principal);
+    height: 11px;
+    width: 90%;
+    border-radius: 5px 0 0 5px;
+}
+
+.parte-cinza-90 {
+    background-color: var(--cinza-porcentagens);
+    height: 11px;
+    width: 10%;
+    border-radius: 0 5px 5px 0;
+}
+
+.parte-verde-65 {
+    background-color: var(--rosa-principal);
+    height: 11px;
+    width: 65%;
+    border-radius: 5px 0 0 5px;
+}
+
+.parte-cinza-65 {
+    background-color: var(--cinza-porcentagens);
+    height: 11px;
+    width: 35%;
+    border-radius: 0 5px 5px 0;
+}

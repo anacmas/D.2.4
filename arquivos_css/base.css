@@ -1,0 +1,50 @@
+:root {
+    --rosa-principal: #c983b4;
+    --azul-escuro: #055164;
+    --cinza: #54585c;
+    --cinza-medio: #9199a5;
+    --cinza-background: #f1f1f1;
+    --cinza-porcentagens: #eeeff2;
+    --fonte-principal: 'Montserrat', sans-serif;
+    --fonte-nome: 'Work Sans', sans-serif;
+}
+
+.container-geral {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+.container-traco-verde {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1.5%;
+}
+
+.traco-verde {
+    background-color: #c983b4;
+    width: 8%;
+    height: 4px;
+    border-radius: 3px;
+}
+
+.traco-verde-pequeno {
+    background-color: #c983b4;
+    width: 2%;
+    height: 4px;
+    border-radius: 3px;
+    margin-left: 5px;
+}
+
+.traco-verde-minusculo {
+    background-color: #c983b4;
+    width: 1%;
+    height: 4px;
+    border-radius: 3px;
+    margin-left: 5px;
+}
+
+.cor-branca-traco-verde {
+    background-color: #FFFFFF;
+}

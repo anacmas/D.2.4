@@ -1,0 +1,57 @@
+.terceira-area-projetos {
+    background-color: var(--cinza-background);
+    display: flex;
+    justify-content: center;
+    padding: 1% 0;
+    margin: 2.5% 0;
+}
+
+.conteudo-terceira-area {
+    width: 50%;
+}
+
+h6 {
+    font-family: var(--fonte-principal);
+    font-size: 1.6rem;
+    color: var(--azul-escuro);
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.graphic-web, .ui-front {
+    display: flex;
+    flex-direction: row;
+}
+
+.gd, .wd, .uiux, .fd {
+    background-color: #ffffff;
+    margin: 1.5%;
+    padding: 4%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 10px #e7e7e7;
+}
+
+.projetos-linha {
+    display: flex;
+    justify-content: center;
+}
+
+.imagens-projetos {
+    background-color: var(--rosa-principal);
+    height: 5em;
+    width: 5em;
+    border-radius: 20px 20px 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icones-projetos {
+    filter: invert(100%);
+}
+
+.textos-projetos {
+    font-family: var(--fonte-principal);
+    color: var(--cinza-medio);
+    font-weight: 500;
+}
