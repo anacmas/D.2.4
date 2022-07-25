@@ -1,3 +1,4 @@
-Preview:
+Página pessoal frontend responsiva
 
-https://pagina-pessoal-d2-4-mobile.vercel.app/
+Preview:
+https://anacmas.github.io/pag-pessoal-simples/
